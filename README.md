@@ -6,7 +6,7 @@ Single source of truth for all development standards and best practices.
 
 ```bash
 # Run one-line setup
-bash <(curl -s YOUR_GITHUB_URL/tools/setup/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/eyedwalker/enterprise-dev-standards/main/tools/setup/install.sh)
 
 # Configure Windsurf AI
 # Tell Windsurf: "Follow enterprise rules in ~/.windsurf/global-rules/"

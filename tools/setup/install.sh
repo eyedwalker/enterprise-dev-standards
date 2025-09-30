@@ -2,8 +2,8 @@
 
 echo "🚀 Setting up Enterprise Development Environment..."
 
-# Clone standards (update with your GitHub URL)
-STANDARDS_REPO="https://github.com/YOUR_ORG/enterprise-dev-standards.git"
+# Clone standards
+STANDARDS_REPO="https://github.com/eyedwalker/enterprise-dev-standards.git"
 
 if [ ! -d ~/enterprise-standards ]; then
     git clone "$STANDARDS_REPO" ~/enterprise-standards
