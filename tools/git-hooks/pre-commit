@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "🔍 Running pre-commit checks..."
+
+# Run linter
+if npm run lint 2>/dev/null; then
+    echo "✓ ESLint passed"
+else
+    echo "❌ ESLint failed"
+    exit 1
+fi
+
+# Run tests
+if npm test -- --coverage 2>/dev/null; then
+    echo "✓ Tests passed"
+else
+    echo "❌ Tests failed"
+    exit 1
+fi
+
+echo "✅ All checks passed!"
