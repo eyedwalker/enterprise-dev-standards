@@ -1,4 +1,4 @@
-# Developer Onboarding - EncompassAI
+# Developer Onboarding - encompassAI
 
 ## Day 1: Setup
 1. Run: `bash <(curl -s https://github.com/YOUR_ORG/enterprise-dev-standards/raw/main/tools/setup/install.sh)`

@@ -1,4 +1,4 @@
-# EncompassAI - Enterprise Development Standards
+# encompassAI - Enterprise Development Standards
 
 Single source of truth for all development standards and best practices.
 
@@ -62,7 +62,7 @@ Standards are versioned and evolving. Check changelog for updates.
 ## 📞 Support
 
 - Slack: #dev-standards
-- Email: dev-standards@EncompassAI.com
+- Email: dev-standards@encompassAI.com
 - Office Hours: Tuesdays 2-4 PM
 
 ---

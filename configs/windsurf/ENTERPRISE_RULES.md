@@ -1,4 +1,4 @@
-# EncompassAI Enterprise Development Rules
+# encompassAI Enterprise Development Rules
 
 ## Context
 You are working on enterprise healthcare software that must be:
